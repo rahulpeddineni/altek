@@ -1,4 +1,4 @@
-package array;
+package arra;
 
 public class Ascending_order_decending_order {
 
@@ -58,4 +58,5 @@ public class Ascending_order_decending_order {
 	        printDescending(numbers);
 	    }
 	}
+
 
